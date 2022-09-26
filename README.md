@@ -1,1 +1,1 @@
-# SMAI-Project
+# Project: Visualizing Loss Landscapes of Neural Nets
